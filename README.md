@@ -10,8 +10,6 @@ The script will ping the given server every 1 second and report back the results
 
 &nbsp;
 
----
-
 ## Getting Started
 
 ### Dependencies
@@ -41,8 +39,6 @@ THEN
 * Hit enter
 
 &nbsp;
-
----
 
 ## Example output:
 
